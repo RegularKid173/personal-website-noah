@@ -1,0 +1,18 @@
+<title>Noah's Bicycle Shop<title>
+<div class="container">
+<div class="row">
+<h1>Noah's Bicycle Shop</h1>
+<h3>We have bikes that fit any need!</h3>
+<ul>
+<li>Bikes</li>
+<li>Search</li>
+<li>About Us</li>
+<li>Contact Us</li>
+</ul>
+</div>
+<p>All our bikes are custom made and 
+painted! We make them in our shop we repair
+and fix any bike and we can repaint any bike. 
+We can change it from a girls bike to a 
+boys bike and the other way around.</p> 
+<a class="btn btn-primary" href="#">Buy a Bike</a>
